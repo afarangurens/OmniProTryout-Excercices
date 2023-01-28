@@ -71,7 +71,7 @@ Por ejemplo
 
 * Imprimir el cálculo anterior pero con zonas horarias diferentes.
 
-## [Solución Complejos](https://github.com/afarangurens/OmniProTryout-Excercices/blob/main/FechasYHoras.py)
+## [Solución Fechas y Horas](https://github.com/afarangurens/OmniProTryout-Excercices/blob/main/FechasYHoras.py)
 - --
 ## 4. Agrupación de Objetos
 
@@ -133,4 +133,4 @@ Género, en ese orden. Como lo ilustra el ejemplo a continuación utilizando los
             }
         }
 
-## [Solución Complejos](https://github.com/afarangurens/OmniProTryout-Excercices/blob/main/AgrupacionDeObjetos.py)
+## [Solución Agrupación de Objetos](https://github.com/afarangurens/OmniProTryout-Excercices/blob/main/AgrupacionDeObjetos.py)
