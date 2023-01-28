@@ -15,13 +15,13 @@ def count_weekdays(date1, date2):
     # Se inicializan en un diccionario los días de la semana mapeando los números del 0 - 6 con el día de la semana
     # al que corresponde
     weekdays = {
-        0: "Monday",
-        1: "Tuesday",
-        2: "Wednesday",
-        3: "Thursday",
-        4: "Friday",
-        5: "Saturday",
-        6: "Sunday"
+        0: "Lunes",
+        1: "Martes",
+        2: "Miercoles",
+        3: "Jueves",
+        4: "Viernes",
+        5: "Sabados",
+        6: "Domingos"
     }
 
     # Se inicializa el diccionario donde se va a relizar el conteo de los días entre las dos fechas
